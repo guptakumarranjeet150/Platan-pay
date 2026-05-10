@@ -1,9 +1,8 @@
 node_modules/
 dist/
-.env
-.env.local
 *.log
 *.tsbuildinfo
 .DS_Store
 .playwright-cli/
 .vercel
+config.bat
